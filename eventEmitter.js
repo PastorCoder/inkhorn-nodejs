@@ -1,6 +1,6 @@
 const EventEmitter = require("node:events");
 
-const emitter = new EventEmitter();//instance of the event module
+const emitter = new EventEmitter();
 
 // emitter.on("eventName", "function");
 // emitter.on("order-pizza", () => {
